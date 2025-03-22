@@ -20,7 +20,7 @@
 ### DebugPlus
 - [Direct Download](https://github.com/WilsontheWolf/DebugPlus/archive/refs/heads/master.zip)
 - [Repository](https://github.com/WilsontheWolf/DebugPlus)
-- *Description TBA*
+- Adds a variety of useful tools for debugging (and cheating)
 
 ### Handy
 - [Direct Download](https://github.com/SleepyG11/HandyBalatro/archive/refs/heads/main.zip)
@@ -35,17 +35,32 @@
 ### Jen's Balatro Collection
 - [Direct Download](https://github.com/jenwalter666/JensBalatroCollection/archive/refs/heads/main.zip)
 - [Repository](https://github.com/jenwalter666/JensBalatroCollection)
-- *Description TBA*
+- A collection of mods that do many things, from allowing planets to have editions to allowing consumables to stack
 
 ### Cartomancer
 - [Direct Download](https://github.com/stupxd/Cartomancer/archive/refs/heads/main.zip)
 - [Repository](https://github.com/stupxd/Cartomancer)
-- Adds many QOL features, to reduce lag, make the game look cleaner, etc.
+- Adds many QOL features to reduce lag, make the game look cleaner, etc.
 
 ### Card Sleeves
 - [Direct Download](https://github.com/larswijn/CardSleeves/archive/refs/heads/main.zip)
 - [Repository](https://github.com/larswijn/CardSleeves)
 - Adds Sleeves for your decks that add more to the vanilla experience
+
+### Joker Display
+- [Direct Download](https://github.com/nh6574/JokerDisplay/archive/refs/heads/main.zip)
+- [Repository](https://github.com/nh6574/JokerDisplay)
+- Balatro mod that displays information such as modifiers or relevant hands, ranks, or suits under Jokers
+
+### Too Many Jokers
+- [Direct Download](https://github.com/cg-223/toomanyjokers/archive/refs/heads/main.zip)
+- [Repository](https://github.com/cg-223/toomanyjokers)
+- Adds a UI allowing for searching of cards
+
+### Flush Hotkeys
+- [Direct Download](https://github.com/Agoraaa/FlushHotkeys/archive/refs/heads/main.zip)
+- [Repository](https://github.com/Agoraaa/FlushHotkeys)
+- Adds a few hotkeys to easily select poker hands of certain types
 
 ## Content Mods
 
@@ -57,9 +72,28 @@
 ### Betmma's Mod Collection
 - [Direct Download](https://github.com/betmma/my_balatro_mods/archive/refs/heads/main.zip)
 - [Repository](https://github.com/betmma/my_balatro_mods)
-- *Description TBA*
+- A collection of mods made by Betmma, mainly known for Betmma Vouchers and Betmma Jokers
 
 ### MoreFluff
 - [Direct Download](https://github.com/notmario/MoreFluff/archive/refs/heads/main.zip)
 - [Repository](https://github.com/notmario/MoreFluff)
-- *Description TBA*
+- A Balatro mod that currently adds 44+ jokers, 4 decks, 2+ vouchers, and 16+ of a new consumable type: Colour cards
+
+## Micellaneous Mods
+
+### Item Remover
+- [Direct Download](https://github.com/art-muncher/Item-Remover/archive/refs/heads/main.zip)
+- [Repository](https://github.com/art-muncher/Item-Remover)
+- Allows you to click on any card in the collection, debuffing it and no longer allowing it to appear
+
+Note: May be buggy on newer versions of Steamodded.
+
+### Flower Pot
+- [Direct Download](https://github.com/GauntletGames-2086/Flower-Pot/archive/refs/heads/main.zip)
+- [Repository](https://github.com/GauntletGames-2086/Flower-Pot)
+- Greatly improves the display and collection of player stats
+
+### Malverk
+- [Direct Download](https://github.com/Eremel/Malverk/archive/refs/heads/main.zip)
+- [Repository](https://github.com/Eremel/Malverk)
+- A Balatro mod that handles texture packs
