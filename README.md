@@ -77,13 +77,13 @@
 ### MoreFluff
 - [Direct Download](https://github.com/notmario/MoreFluff/archive/refs/heads/main.zip)
 - [Repository](https://github.com/notmario/MoreFluff)
-- A Balatro mod that currently adds 44+ jokers, 4 decks, 2+ vouchers, and 16+ of a new consumable type: Colour cards
+- A balatro mod for Steamodded 1.0.0. Adds 75+ jokers, 4 decks, and 2 new consumeable types! Compatible with most other mods.
 
 ## Micellaneous Mods
 
-### Item Remover
-- [Direct Download](https://github.com/art-muncher/Item-Remover/archive/refs/heads/main.zip)
-- [Repository](https://github.com/art-muncher/Item-Remover)
+### Banner
+- [Direct Download](https://github.com/SylviBlossom/Banner/archive/refs/heads/main.zip)
+- [Repository](https://github.com/SylviBlossom/Banner)
 - Allows you to click on any card in the collection, debuffing it and no longer allowing it to appear
 
 Note: May be buggy on newer versions of Steamodded.
