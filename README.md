@@ -32,11 +32,6 @@
 - [Repository](https://github.com/Eremel/Galdur)
 - Improves the deck selection screen
 
-### Jen's Balatro Collection
-- [Direct Download](https://github.com/jenwalter666/JensBalatroCollection/archive/refs/heads/main.zip)
-- [Repository](https://github.com/jenwalter666/JensBalatroCollection)
-- A collection of mods that do many things, from allowing planets to have editions to allowing consumables to stack
-
 ### Cartomancer
 - [Direct Download](https://github.com/stupxd/Cartomancer/archive/refs/heads/main.zip)
 - [Repository](https://github.com/stupxd/Cartomancer)
@@ -85,7 +80,6 @@
 - [Direct Download](https://github.com/SylviBlossom/Banner/archive/refs/heads/main.zip)
 - [Repository](https://github.com/SylviBlossom/Banner)
 - Allows you to click on any card in the collection, debuffing it and no longer allowing it to appear
-
 
 ### Flower Pot
 - [Direct Download](https://github.com/GauntletGames-2086/Flower-Pot/archive/refs/heads/main.zip)
