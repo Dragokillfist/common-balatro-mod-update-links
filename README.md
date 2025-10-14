@@ -2,10 +2,10 @@
 - [Direct Download](https://github.com/Steamodded/smods/archive/refs/heads/main.zip)
 - [Repository](https://github.com/Steamodded/smods)
 
-# Lovely 0.7.1
-- [Windows](https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.7.1/lovely-x86_64-pc-windows-msvc.zip)
-- [Mac(Arm)](https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.7.1/lovely-aarch64-apple-darwin.tar.gz)
-- [Mac(x86)](https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.7.1/lovely-x86_64-apple-darwin.tar.gz)
+# Lovely 0.8.0
+- [Windows](https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.8.0/lovely-x86_64-pc-windows-msvc.zip)
+- [Mac(Arm)](https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.8.0/lovely-aarch64-apple-darwin.tar.gz)
+- [Mac(x86)](https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.8.0/lovely-x86_64-apple-darwin.tar.gz)
 - [Repository](https://github.com/ethangreen-dev/lovely-injector)
 
 ## Cryptid
